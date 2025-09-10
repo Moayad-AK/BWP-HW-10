@@ -62,7 +62,7 @@
         </header>
 
         <main class="px-3 container">
-            <h1>Cover Online Store</h1>
+            <h1>The Main Page to Enter the Homework</h1>
             <p class="lead">
                 This Website is an online store to display some products by one admin and many users to use the Website. <br>
                 The admin can add new products and edit or delete an exists products and all what can user do. <br>
