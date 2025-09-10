@@ -92,5 +92,3 @@ Route::get('/orders/create', [OrderController::class, 'create'])
 Route::post('/orders', [OrderController::class, 'store'])
     ->name('orders.store')
     ->middleware('auth');
-
-// Route::get('/products', [ProductController::class, 'index']);
